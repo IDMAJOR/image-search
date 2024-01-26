@@ -71,7 +71,6 @@ button:focus-visible {
   width: 100%;
   flex-wrap: wrap;
   background-color: #18032c;
-  margin-left: 85px;
 }
 
 .search-input{
